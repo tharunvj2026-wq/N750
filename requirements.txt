@@ -1,0 +1,4 @@
+nselib
+pandas
+numpy
+requests
